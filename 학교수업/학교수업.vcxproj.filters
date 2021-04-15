@@ -51,7 +51,7 @@
     <ClCompile Include="time_tables and while.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="star quesion2.cpp">
+    <ClCompile Include="star question2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="calculate question.cpp">
@@ -63,7 +63,7 @@
     <ClCompile Include="function1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="school_tset.cpp">
+    <ClCompile Include="school_test1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="use arrangement.cpp">
@@ -76,6 +76,9 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="star question4.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="school_test2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

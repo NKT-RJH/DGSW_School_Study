@@ -139,13 +139,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="school_test2.cpp" />
     <ClCompile Include="topcit1.cpp" />
     <ClCompile Include="topcit2.cpp">
       <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</SDLCheck>
     </ClCompile>
     <ClCompile Include="star question1.cpp" />
     <ClCompile Include="time_tables and while.cpp" />
-    <ClCompile Include="star quesion2.cpp" />
+    <ClCompile Include="star question2.cpp" />
     <ClCompile Include="calculate question.cpp" />
     <ClCompile Include="data type.cpp" />
     <ClCompile Include="operation and logic.cpp" />
@@ -161,7 +162,7 @@
     <ClCompile Include="continue_break and else if.cpp" />
     <ClCompile Include="if2.cpp" />
     <ClCompile Include="goto and switch.cpp" />
-    <ClCompile Include="school_tset.cpp">
+    <ClCompile Include="school_test1.cpp">
       <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</SDLCheck>
     </ClCompile>
   </ItemGroup>
