@@ -1,12 +1,11 @@
-//#include <stdio.h>
-//#define _CRT_SECURE_NO_WARNINGS
-//#define M_PI 3.14
+#include <stdio.h>
+#define _CRT_SECURE_NO_WARNINGS
+#define M_PI 3.14
 
-/*
-int main()
+int main1()
 {
 	char ch = 9;
-	//sizeof 연산자 : 자료형의 크기를 알려줌
+	sizeof //연산자 : 자료형의 크기를 알려줌
 	printf("ch의 크기 : %d byte\n", sizeof(ch));
 	printf("숫자 9의 크기 : %d byte\n", sizeof(9));
 	int n = 9;
@@ -18,10 +17,8 @@ int main()
 
 	return 0;
 }
-*/
 
-/*
-int main()
+int main2()
 {
 	double num,area;
 	scanf_s("%lf", &num);
@@ -31,10 +28,8 @@ int main()
 
 	return 0;
 }
-*/
 
-/*
-int main()
+int main3()
 {
 	int n1, n2, num;
 	
@@ -45,10 +40,8 @@ int main()
 
 	return 0;
 }
-*/
 
-/*
-int main()
+int main4()
 {
 	char ch1 = 'A', ch2 = 65;
 	int ch3 = 'Z', ch4 = 90;
@@ -60,10 +53,8 @@ int main()
 
 	return 0;
 }
-*/
 
-/*
-int main()
+int main5()
 {
 	int n;
 	char c;
@@ -77,10 +68,8 @@ int main()
 
 	return 0;
 }
-*/
 
-/*
-int main()
+int main6()
 {
 	int x1, x2, y1, y2, path_x, path_y;
 
@@ -92,33 +81,51 @@ int main()
 
 	return 0;
 }
-*/
 
-/*
-int main()
+int main7()
 {
 	float f = 1.234;
 	double d = 1.23423234;
 
 	return 0;
 }
-*/
 
-/*
-int main()
+int main8()
 {
 	float f = 3.245;
 
 	float f = 3.245f;
-}
-*/
-
-/*
-int main()
-{
-	const int max = 100;
-	max = 200;
 
 	return 0;
 }
-*/
+
+int main9()
+{
+	const int max = 100;
+	//max = 200; get error
+
+	return 0;
+}
+
+int main()
+{
+	main1();
+	printf("\n\n");
+	main2();
+	printf("\n\n");
+	main3();
+	printf("\n\n");
+	main4();
+	printf("\n\n");
+	main5();
+	printf("\n\n");
+	main6();
+	printf("\n\n");
+	main7();
+	printf("\n\n");
+	main8();
+	printf("\n\n");
+	main9();
+
+	return 0;
+}

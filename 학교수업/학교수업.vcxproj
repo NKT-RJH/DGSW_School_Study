@@ -143,24 +143,25 @@
     <ClCompile Include="topcit2.cpp">
       <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</SDLCheck>
     </ClCompile>
-    <ClCompile Include="문제.cpp" />
-    <ClCompile Include="문제1.cpp" />
-    <ClCompile Include="문제2.cpp" />
-    <ClCompile Include="문제3.cpp" />
-    <ClCompile Include="소스.cpp" />
-    <ClCompile Include="소스1.cpp" />
-    <ClCompile Include="소스10.cpp" />
-    <ClCompile Include="소스11.cpp" />
-    <ClCompile Include="소스12.cpp" />
-    <ClCompile Include="소스2.cpp" />
-    <ClCompile Include="소스3.cpp" />
-    <ClCompile Include="소스4.cpp" />
-    <ClCompile Include="소스5.cpp" />
-    <ClCompile Include="소스6.cpp" />
-    <ClCompile Include="소스7.cpp" />
-    <ClCompile Include="소스8.cpp" />
-    <ClCompile Include="소스9.cpp" />
-    <ClCompile Include="쪽지시험.cpp">
+    <ClCompile Include="star question1.cpp" />
+    <ClCompile Include="time_tables and while.cpp" />
+    <ClCompile Include="star quesion2.cpp" />
+    <ClCompile Include="calculate question.cpp" />
+    <ClCompile Include="data type.cpp" />
+    <ClCompile Include="operation and logic.cpp" />
+    <ClCompile Include="function1.cpp" />
+    <ClCompile Include="function2.cpp" />
+    <ClCompile Include="use arrangement.cpp" />
+    <ClCompile Include="star question4.cpp" />
+    <ClCompile Include="increment_decrement and printf.cpp" />
+    <ClCompile Include="star question3.cpp" />
+    <ClCompile Include="while.cpp" />
+    <ClCompile Include="for.cpp" />
+    <ClCompile Include="if1.cpp" />
+    <ClCompile Include="continue_break and else if.cpp" />
+    <ClCompile Include="if2.cpp" />
+    <ClCompile Include="goto and switch.cpp" />
+    <ClCompile Include="school_tset.cpp">
       <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</SDLCheck>
     </ClCompile>
   </ItemGroup>
