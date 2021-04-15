@@ -153,7 +153,6 @@
     <ClCompile Include="function1.cpp" />
     <ClCompile Include="function2.cpp" />
     <ClCompile Include="use arrangement.cpp" />
-    <ClCompile Include="star question4.cpp" />
     <ClCompile Include="increment_decrement and printf.cpp" />
     <ClCompile Include="star question3.cpp" />
     <ClCompile Include="while.cpp" />
