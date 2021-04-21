@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="school_test2.cpp" />
+    <ClCompile Include="school_test3.cpp" />
     <ClCompile Include="topcit1.cpp" />
     <ClCompile Include="topcit2.cpp">
       <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</SDLCheck>
