@@ -140,9 +140,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="pointer.cpp" />
+    <ClCompile Include="pointer1.cpp" />
     <ClCompile Include="school_test2.cpp" />
     <ClCompile Include="school_test3.cpp" />
     <ClCompile Include="school_test4.cpp" />
+    <ClCompile Include="school_test5.cpp">
+      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
+    </ClCompile>
     <ClCompile Include="topcit1.cpp" />
     <ClCompile Include="topcit2.cpp">
       <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</SDLCheck>
