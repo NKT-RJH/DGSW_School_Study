@@ -93,5 +93,14 @@
     <ClCompile Include="pointer1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="arrangement.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="school_test6.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="snaile.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

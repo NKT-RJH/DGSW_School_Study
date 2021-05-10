@@ -139,6 +139,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="arrangement.cpp">
+      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
+    </ClCompile>
     <ClCompile Include="pointer.cpp" />
     <ClCompile Include="pointer1.cpp" />
     <ClCompile Include="school_test2.cpp" />
@@ -147,6 +150,10 @@
     <ClCompile Include="school_test5.cpp">
       <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
     </ClCompile>
+    <ClCompile Include="school_test6.cpp">
+      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
+    </ClCompile>
+    <ClCompile Include="snaile.cpp" />
     <ClCompile Include="topcit1.cpp" />
     <ClCompile Include="topcit2.cpp">
       <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</SDLCheck>
