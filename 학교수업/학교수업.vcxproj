@@ -142,6 +142,7 @@
     <ClCompile Include="arrangement.cpp">
       <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
     </ClCompile>
+    <ClCompile Include="bubble.cpp" />
     <ClCompile Include="pointer.cpp" />
     <ClCompile Include="pointer1.cpp" />
     <ClCompile Include="school_test2.cpp" />

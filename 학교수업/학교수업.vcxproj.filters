@@ -102,5 +102,8 @@
     <ClCompile Include="snaile.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="bubble.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
