@@ -167,6 +167,7 @@
     <ClCompile Include="operation and logic.cpp" />
     <ClCompile Include="function1.cpp" />
     <ClCompile Include="function2.cpp" />
+    <ClCompile Include="topcit3.cpp" />
     <ClCompile Include="use arrangement.cpp" />
     <ClCompile Include="increment_decrement and printf.cpp" />
     <ClCompile Include="star question3.cpp" />
